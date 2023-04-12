@@ -5,8 +5,8 @@
     "image": "a.png"
   },
   {
-    "catId": 1,
-    "name": "a",
-    "image": "a.png"
+    "catId": 2,
+    "name": "b",
+    "image": "b.png"
   }
 ]
